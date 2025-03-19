@@ -21,8 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : | "(Junjie Chen)
-                       陈俊杰"
+  name             : "(Junjie Chen)\n陈俊杰"
   avatar           : "images/chen.png"
   bio              : "CV"
   location         : "NanChang, China"
