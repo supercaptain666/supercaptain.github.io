@@ -19,7 +19,8 @@ redirect_from:
 陈俊杰，博士，讲师，硕士生导师。 
 2014-2018:四川大学，工学学士。
 2018-2023：上海交通大学，工学博士。
-研究方向：计算机视觉、深度学习、迁移学习、姿态估计、分割、检测、分类。
+# 研究方向：
+计算机视觉、深度学习、迁移学习、姿态估计、分割、检测、分类。
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
@@ -52,13 +53,15 @@ redirect_from:
 - Jiangtong Li, Wentao Wang, **Junjie Chen**, Li Niu, Jianlou Si, Chen Qian, and Liqing Zhang. "Video Semantic Segmentation via Sparse Temporal Transformer." `In ACM MM 2021`.
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 主持课题
+1）国家自然科学基金-青年科学基金项目。
+2）江西省自然科学基金-青年科学基金项目。
+3）江西省职业早期人才培养项目。
+4）校级一般教育教学改革课题。
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2014-2018：四川大学，工学学士。
+- 2018-2023：上海交通大学，工学博士。
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
