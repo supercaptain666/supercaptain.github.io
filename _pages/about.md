@@ -22,11 +22,11 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
+# 🔥 前沿消息
 - *2025.02*: &nbsp;🎉🎉 one papers are accepted by CVPR 2025.
 - *2024.02*: &nbsp;🎉🎉 one papers are accepted by CVPR 2024.
 
-# 📝 Publications 
+# 📝 科研成果 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
