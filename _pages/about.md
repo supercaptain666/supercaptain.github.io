@@ -16,9 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-陈俊杰，博士，讲师，硕士生导师。 
-2014-2018:四川大学，工学学士。
-2018-2023：上海交通大学，工学博士。
+陈俊杰，博士，讲师，硕士生导师。 人工智能的研究，特别是计算机视觉领域的研究，相对来说有着更低的上手门槛和更实际的应用场景，所以近年来处于风口浪尖。我与多媒体智能处理江西省重点实验室及上海交通大学BCMI实验室有着密切合作，现已发表十多篇国际顶尖会议期刊论文，能够为有志同学提供一条切实的科研道路。
 # 研究方向：
 计算机视觉、深度学习、迁移学习、姿态估计、分割、检测、分类。
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -59,13 +57,13 @@ redirect_from:
 3）江西省职业早期人才培养项目。
 4）校级一般教育教学改革课题。
 
-# 📖 Educations
+# 📖 教育背景
 - 2014-2018：四川大学，工学学士。
 - 2018-2023：上海交通大学，工学博士。
 
-# 💬 Invited Talks
+# 💬 团队信息
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 实验设备
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
