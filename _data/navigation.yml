@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "主持课题"
-    url: "/-honorrs-and-awards"
+    url: "/#-honorrs-and-awards"
 
   - title: "教育背景"
     url: "/#-educations"
