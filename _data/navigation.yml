@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "个人信息"
-    url: "/#个人信息"
+    url: "/#about-me"
 
   - title: "前沿消息"
-    url: "/#-前沿消息"
+    url: "/#-news"
 
   - title: "科研成果"
-    url: "/#-科研成果"
+    url: "/#-publications"
 
   - title: "主持课题"
-    url: "/-主持课题"
+    url: "/-honorrs-and-awards"
 
   - title: "教育背景"
-    url: "/#-教育背景"
+    url: "/#-educations"
 
   - title: "团队信息"
     url: "/#-invited-talks"
 
   - title: "实验设备"
-    url: "/#-实验设备"
+    url: "/#-internships"
