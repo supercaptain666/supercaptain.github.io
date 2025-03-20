@@ -1,22 +1,45 @@
+# # main links links
+# main:
+#   - title: "个人信息"
+#     url: "/#about-me"
+
+#   - title: "前沿消息"
+#     url: "/#-news"
+
+#   - title: "科研成果"
+#     url: "/#-publications"
+
+#   - title: "主持课题"
+#     url: "/#-honorrs-and-awards"
+
+#   - title: "教育背景"
+#     url: "/#-educations"
+
+#   - title: "团队信息"
+#     url: "/#-invited-talks"
+
+#   - title: "实验设备"
+#     url: "/#-internships"
+
 # main links links
 main:
-  - title: "个人信息"
+  - title: "About Me"
     url: "/#about-me"
 
-  - title: "前沿消息"
+  - title: "News"
     url: "/#-news"
 
-  - title: "科研成果"
+  - title: "Publications"
     url: "/#-publications"
 
-  - title: "主持课题"
-    url: "/#-honorrs-and-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "教育背景"
+  - title: "Educations"
     url: "/#-educations"
 
-  - title: "团队信息"
+  - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "实验设备"
+  - title: "Internships"
     url: "/#-internships"
